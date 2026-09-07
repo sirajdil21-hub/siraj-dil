@@ -1,0 +1,11 @@
+{
+  "name": "R.S.",
+  "description": "R.S. - Tactical Sci-Fi HUD & Voice Assistant interface exclusively crafted for Admin Siraj (سراج).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
